@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gl1z
-- 👀 I’m interested in game development and coding
-- 🌱 I’m currently learning cumputer science 
-- 💞️ 
+- 👀 I’m interested in game development and machine learning
+- 🌱 I’m currently studying cumputer science 
+- 💞️ Music & books
 - 📫 
 
 <!---
