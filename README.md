@@ -1,6 +1,6 @@
 ## I'm Tom 
 
-Computer Science student focused on Cloud Engineering, DevOps, and Data Systems.
+Computer Science student focused on AI, Cloud Engineering, DevOps, and Data Systems.
 
 I build practical projects in Java and Python while strengthening my understanding of distributed systems, databases, and cloud infrastructure.
 
