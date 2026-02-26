@@ -34,10 +34,3 @@ AWS Educate: Introduction to Cloud 101
 ---
 
 **Find me on LinkedIn:** [linkedin.com/in/t0ml](https://www.linkedin.com/in/t0ml)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=g1tz&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g1tz&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
