@@ -1,6 +1,6 @@
 # Hi, I'm Tom
 
-Computer Science student based in London, finishing my second year and starting my final year in September 2026. My main focus right now is Python and AWS — I want to end up working in cloud or infrastructure once I graduate.
+Computer Science student based in London, finishing my second year and starting my final year in September 2026. My main focus right now is Python and AWS. I want to end up working in cloud or infrastructure once I graduate.
 
 Most of what I've built so far has been coursework but I'm trying to change that. In August I put together a Twitch badge tracker bot for Discord as my first proper self-initiated project, and I've been building more since.
 
