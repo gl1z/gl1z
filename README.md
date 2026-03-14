@@ -33,6 +33,7 @@ Still learning. Still building.
 **Certifications**
 
 AWS Educate: Introduction to Cloud 101
+AWS Certified Solutions Architect – Associate (SAA-C03) (In progess)
 
 ---
 
