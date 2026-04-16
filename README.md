@@ -1,8 +1,8 @@
 # Hi, I'm Tom
 
-Computer Science student based in London, finishing my second year and starting my final year in September 2026. My main focus right now is Python and AWS. I want to end up working in cloud or infrastructure once I graduate.
+Computer Science student based in London, finishing my second year and starting my final year in September 2026. My main focus right now is Python and AWS. Focused on cloud infrastructure and backend engineering.
 
-Most of what I've built so far has been coursework but I'm trying to change that. In August I put together a Twitch badge tracker bot for Discord as my first proper self-initiated project, and I've been building more since.
+I've been building self initiated projects alongside my degree - a Valorant tournament REST API and a serverless AWS security event pipeline, both on GitHub. Now working toward AWS Solutions Architect Associate this year and starting my dissertation on AI agent security in September.
 
 Still learning. Still building.
 
@@ -24,16 +24,15 @@ Still learning. Still building.
 
 **What I'm working on**
 
-- Building more Python projects outside of uni
-- Getting hands-on with AWS (EC2, S3, IAM, Lambda)
-- Improving my understanding of cloud architecture and distributed systems
+- AWS SAA-C03 - studying alongside building
+- Next: LangGraph agent architecture (May)
+- Dissertation: AI agent runtime security layer (starting September)
 
 ---
 
 **Certifications**
 
-- AWS Educate: Introduction to Cloud 101
-- AWS Certified Solutions Architect – Associate (SAA-C03) (In progess)
+- AWS Certified Solutions Architect – Associate (SAA-C03) (In progress)
 
 ---
 
