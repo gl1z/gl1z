@@ -25,7 +25,7 @@ Still learning. Still building.
 **What I'm working on**
 
 - AWS SAA-C03 - studying alongside building
-- Next: LangGraph agent architecture (May)
+- Building agent-lab LangGraph security test agent
 - Dissertation: AI agent runtime security layer (starting September)
 
 ---
