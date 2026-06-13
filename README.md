@@ -26,7 +26,7 @@ Still learning. Still building.
 
 - AWS SAA-C03 - studying alongside building
 - Building agent-lab LangGraph security test agent
-- Dissertation: AI agent runtime security layer (starting September)
+- Dissertation: AI agent runtime security layer (September)
 
 ---
 
