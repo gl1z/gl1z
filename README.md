@@ -2,7 +2,7 @@
 
 Computer Science student based in London, finishing my second year and starting my final year in September 2026. My main focus right now is Python and AWS. Focused on cloud infrastructure and backend engineering.
 
-I've been building self initiated projects alongside my degree - a Valorant tournament REST API and a serverless AWS security event pipeline, both on GitHub. Now working toward AWS Solutions Architect Associate this year and starting my dissertation on AI agent security in September.
+I've been building self initiated projects alongside my degree, a Valorant tournament REST API and a serverless AWS security event pipeline, both on GitHub. Now working toward AWS Solutions Architect Associate this year and starting my dissertation on AI agent security in September.
 
 Still learning. Still building.
 
